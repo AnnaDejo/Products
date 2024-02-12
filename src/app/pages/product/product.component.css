@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+    font-size: 100px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    color: #2c3e50; /* Dark blue-gray */
+    text-shadow: 8px 2px 4px rgba(0, 0, 0, 0.5);
+    letter-spacing: 3px;
+    box-decoration-break: clone; /* Extend background across lines */
+}
+
+
+.card
+{
+    border:1px solid black;
+    height:100%;
+    width:40px;
+}
